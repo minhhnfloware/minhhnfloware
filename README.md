@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**minhhnfloware/minhhnfloware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**minhhngr/minhhngr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.linkedin.com/in/minhhncs/"><img src="https://github.com/minhhnfloware/minhhnfloware/blob/main/devcard.svg" width="400" alt="Minh Huỳnh's Dev Card"/></a>
