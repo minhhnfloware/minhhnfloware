@@ -7,7 +7,7 @@
 
 <hr>
 
-<a href="https://www.linkedin.com/in/minhhncs/">
+<a href="https://app.daily.dev/minhhncs">
   <img align="right" src="https://github.com/minhhnfloware/minhhnfloware/blob/main/devcard.svg" min-width="250" min-height="250" width="300" alt="Minh Huỳnh's Dev Card"/>
 </a>
 
