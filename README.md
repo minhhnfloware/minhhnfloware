@@ -1,10 +1,9 @@
 # Hello there, I'm Minh - Huynh Nhat Minh 🙋‍
 ## QA/QC in Automation Team
 ### Contact with me: 
-[![Flomail](https://img.shields.io/badge/Flomail-aba132?style=for-the-badge&logo=flomail&logoColor=yellow)](mail:minhhn1112@flomail.net)
-[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](live:minhhncs)
-[![Phone](https://img.shields.io/badge/Phone-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](tel:0902667474)
-
+- Flomail: minhhn1112@flomail.net
+- Skype: live:minhhncs
+- Phone: 090 266 7474
 
 <hr>
 
@@ -12,14 +11,15 @@
   <img align="right" src="https://github.com/minhhnfloware/minhhnfloware/blob/main/devcard.svg" width="400" alt="Minh Huỳnh's Dev Card"/>
 </a>
 
-## Tech Stack
+## Tech Stack 🛠
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-3f1357?style=for-the-badge&logo=Appium&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-116931?style=for-the-badge&logo=locust&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Locust](https://img.shields.io/badge/Locust-116931?style=for-the-badge&logo=locust&logoColor=white)
 
 ## Find me around the web 💻👨‍💻
 
