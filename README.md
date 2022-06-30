@@ -8,7 +8,7 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/minhhncs/">
-  <img align="right" src="https://github.com/minhhnfloware/minhhnfloware/blob/main/devcard.svg" width="400" alt="Minh Huỳnh's Dev Card"/>
+  <img align="right" src="https://github.com/minhhnfloware/minhhnfloware/blob/main/devcard.svg" min-width="250" min-height="250" width="300" alt="Minh Huỳnh's Dev Card"/>
 </a>
 
 ## Tech Stack 🛠
@@ -27,6 +27,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhhncs/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/minhhuynh_nhat)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minhhuynhcs)
+
 
 ### Spotify Playing with me 🎧
 
