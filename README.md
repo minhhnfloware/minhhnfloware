@@ -13,14 +13,12 @@ As I bid farewell to my time at Floware VN, I can't help but feel a deep sense o
 
 ### Contact with me: 
 - &#9898;   Flomail: minhhn1112@flomail.net
-- &#128994; Gmail  : minhhngr@gmail.com 
 - &#128994; Skype  : live:minhhncs
-- &#128994; Phone  : 090 266 7474
 
 <hr>
 
 <a href="https://app.daily.dev/minhhncs">
-  <img align="right" src="https://github.com/minhhnfloware/minhhnfloware/blob/main/devcard.svg" min-width="250" min-height="250" width="300" alt="Minh Huỳnh's Dev Card"/>
+  <img align="right" src="minhhncs.png" min-width="250" min-height="250" width="300" alt="Minh Huỳnh's Dev Card"/>
 </a>
 
 ## Tech Stack 🛠
@@ -70,5 +68,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
